@@ -3,6 +3,7 @@ It is very first version of my WhatsApp Clone and It is not very efficient in us
 lets you use different functions of WhatsApp on a command line (terminal). 
 
 
+Sorry for no comments in this code.
 I have not uploaded the completed latest version.
 
 +++++++++++++++++++++++++++++++++++++
